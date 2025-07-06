@@ -6,14 +6,14 @@ A modern, full-stack Expense Management web application built using the **MERN S
 
 ## ✨ Key Features
 
-- ➕ **Add, Edit & Delete Transactions**  
-- 📅 **Filter Transactions by Date**
-- 🔄 **Filter by Type (Income / Expense)**
-- 📊 **Comprehensive Analysis of Earnings vs. Expenses**
-- 🏷️ **Categorical Breakdown of Income and Expense Types**
-- 🔐 **User Authentication (Login / Logout)**
-- ⚡ **Dynamic Updates without Page Reload (SPA)**
-- 📱 **Responsive Design with Ant Design Components**
+-  **Add, Edit & Delete Transactions**  
+-  **Filter Transactions by Date**
+-  **Filter by Type (Income / Expense)**
+-  **Comprehensive Analysis of Earnings vs. Expenses**
+-  **Categorical Breakdown of Income and Expense Types**
+-  **User Authentication (Login / Logout)**
+-  **Dynamic Updates without Page Reload (SPA)**
+-  **Responsive Design with Ant Design Components**
 
 ---
 
